@@ -19,4 +19,5 @@ char *_strcat(char *dest, char *src)
 		a++;
 	}
 	return (dest);
+
 }
